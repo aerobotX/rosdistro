@@ -1192,7 +1192,7 @@ java:
     spherical: [java-1.7.0-openjdk]
   freebsd: [openjdk6]
   gentoo: [virtual/jdk]
-  ubuntu: [default-jdk]
+  ubuntu: [default-jdk, openjfx]
 joystick:
   arch: [linuxconsole]
   debian: [joystick]
