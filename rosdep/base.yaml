@@ -2537,6 +2537,8 @@ libqt5-gui:
   opensuse: [libQt5Gui5]
   slackware: [qt5]
   ubuntu: [libqt5gui5]
+libqt5-multimedia:
+  ubuntu: [libqt5multimedia5]
 libqt5-network:
   arch:   [qt5-base]
   debian: [libqt5network5]
